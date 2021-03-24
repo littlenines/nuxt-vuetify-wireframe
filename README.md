@@ -1,6 +1,6 @@
 # wireframe
 Used Nuxt, Vuetify and JavaScript <br>
-Simple prototype
+Small prototype
 ## Build Setup
 
 ```bash
